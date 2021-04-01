@@ -5,7 +5,7 @@
 3. Kept theme as grey against colored as it was not primariliy style focused assignment.
 4. Use jss against css as local styling approach avoid any global class collisions.
 5. I wasn't sure about search behavior either user needs to press button click action or UI should show result as user types, so I followed the later approach though   it's not pro performance, but switching to any another approach would be easy as we can still use existing fetch functionality.
-6. I will try to deploy this code to github pages, not sure about its outcome. If worked I will update the link in the 'Deployment' section.
+6. ~~I will try to deploy this code to github pages, not sure about its outcome. If worked I will update the link in the 'Deployment' section.~~ Didn't work, its been always issue with create-react-app.
 
 ## Symbol Definition 
 
