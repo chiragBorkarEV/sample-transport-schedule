@@ -9,8 +9,8 @@
 
 ## Symbol Definition 
 
-Half Moon : Night Service
-Clock: Disruptions
+1. Half Moon : Night Service
+2. Clock: Disruptions
 
 ## External Depenancies
 
